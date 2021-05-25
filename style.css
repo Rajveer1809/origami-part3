@@ -1,0 +1,24 @@
+*{
+    background-color : #c50b0b;
+}
+h1{
+    color : #90ee90;
+
+
+    margin-left:550px ;
+}
+
+p{
+    color : #ffff00
+}
+.yo{
+    display:flex;
+}
+img{
+    border:solid;
+    color:violet;
+    border-width: 10px;
+}
+li{
+ font-size:30px ;
+}
